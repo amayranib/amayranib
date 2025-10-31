@@ -9,13 +9,12 @@
 ### 🔬 Featured Projects
 - **[ADS-508: Workplace Health Policy Optimization](https://github.com/amayranib/ADS-508-team-project)**  
   Used AWS SageMaker to analyze workplace health data and optimize policy decisions.  
-  *My role:* Data cleaning, feature engineering, and visualization design.
 
 - **[ADS-507: Data Engineering Pipeline](https://github.com/amayranib/ads507-finalproject)**  
-  Designed a complete ETL pipeline in AWS using Python and SQL.
+  Built an ETL pipeline and dashboard using MySQL, REST APIs, and Python for real-time highway and weather data visualization.
 
 - **[ADS-509: Model Deployment Project](https://github.com/amayranib/ads509-final_project)**  
-  Deployed a predictive model using SageMaker and integrated Git version control.
+ Applied NLP techniques to analyze public discussions and online reviews of high- and low-performing schools.  
 
 ---
 
