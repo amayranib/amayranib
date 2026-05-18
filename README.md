@@ -1,4 +1,4 @@
-## Hi there 👋 I am Amyrani! 
+## Hi there 👋 I am Amayrani! 
 
 🎓 **M.S. in Applied Data Science @ University of San Diego (USD)**  
 📊 Passionate about **Data Analytics, Machine Learning, and Public Policy**  
